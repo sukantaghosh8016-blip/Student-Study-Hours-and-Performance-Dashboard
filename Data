@@ -1,0 +1,61 @@
+student_id,course,study_hours,marks
+S001,Computer Science,0.7,38
+S002,Computer Science,5.2,75
+S003,English,1.1,39
+S004,Mathematics,2.1,47
+S005,English,0.7,41
+S006,English,3.4,65
+S007,Commerce,4.6,62
+S008,Mathematics,5.4,69
+S009,Physics,2.4,47
+S010,Computer Science,1.1,52
+S011,Computer Science,3.0,52
+S012,Computer Science,5.6,77
+S013,English,1.4,45
+S014,Physics,6.3,71
+S015,English,6.7,77
+S016,Computer Science,0.8,43
+S017,Mathematics,5.9,85
+S018,Computer Science,3.2,55
+S019,Commerce,4.9,60
+S020,Mathematics,5.2,73
+S021,Computer Science,4.8,72
+S022,Mathematics,3.7,66
+S023,Physics,7.4,75
+S024,Physics,6.4,67
+S025,Computer Science,2.1,54
+S026,Physics,1.0,36
+S027,English,6.6,76
+S028,Commerce,6.7,85
+S029,Commerce,1.5,47
+S030,English,2.3,57
+S031,English,3.5,53
+S032,Mathematics,4.1,58
+S033,Computer Science,5.8,77
+S034,Mathematics,6.0,71
+S035,Commerce,4.7,57
+S036,Commerce,4.2,65
+S037,English,6.5,88
+S038,English,5.8,74
+S039,Physics,1.3,31
+S040,Physics,7.3,82
+S041,Mathematics,4.1,67
+S042,English,4.8,72
+S043,Mathematics,3.1,62
+S044,English,6.9,94
+S045,English,2.8,66
+S046,Physics,2.2,45
+S047,Mathematics,6.6,81
+S048,Commerce,6.2,73
+S049,English,5.9,79
+S050,English,1.7,50
+S051,English,6.6,76
+S052,English,5.8,76
+S053,Mathematics,5.5,63
+S054,Physics,3.6,59
+S055,English,3.7,59
+S056,Computer Science,4.6,68
+S057,Mathematics,4.6,74
+S058,Computer Science,2.1,49
+S059,Computer Science,6.5,83
+S060,Commerce,2.0,46
